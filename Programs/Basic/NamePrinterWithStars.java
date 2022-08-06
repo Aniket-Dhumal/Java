@@ -4,5 +4,4 @@ class NamePrinterWithStars {
         System.out.println("* Aniket *");
         System.out.println("  ****** ");
     }
-
 }
